@@ -25,7 +25,11 @@
     "@ngrx/store": "^6.1.0",
     "bootstrap": "^4.0.0-beta",
     "core-js": "^2.5.4",
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0",
     "font-awesome": "^4.7.0",
+    "redux": "^4.0.0",
+    "redux-observable": "^1.0.0",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
